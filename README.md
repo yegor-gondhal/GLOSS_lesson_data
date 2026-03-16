@@ -1,6 +1,6 @@
 # Purpose
 A quick project out of curiosity. This project iterates through the different options of the GLOSS (global
-language online support system) website and records the data in a csv. Is useful to anyone wondering
+language online support system) website and records the number of lessons for that configuration in a csv. Is useful to anyone wondering
 about their archive.
 
 # Files
